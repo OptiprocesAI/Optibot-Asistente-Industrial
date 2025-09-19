@@ -1,0 +1,5 @@
+{
+  "name": "Industrial Turbine Assistant",
+  "description": "An interactive web application that acts as an AI assistant for monitoring, analyzing, and predicting gas turbine emissions, based on provided machine learning models.",
+  "requestFramePermissions": []
+}
